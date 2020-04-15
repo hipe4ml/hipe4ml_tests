@@ -1,2 +1,2 @@
 # hipe4ml_tests
-Repository with tests and related data for the hipe4ml package
+Repository with data used for testing the hipe4ml package
